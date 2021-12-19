@@ -8,22 +8,17 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/TroJanzHEX/Unlimited-Filter-Bot/stargazers">
-    <img src="https://img.shields.io/github/stars/TroJanzHEX/Unlimited-Filter-Bot?style=social">
+  <a href="https://github.com/konay1122/Unlimited-Filter-Bot/stargazers">
+    <img src="https://img.shields.io/github/stars/konay1122/Unlimited-Filter-Bot?style=social">
 
   </a>
   
-  <a href="https://github.com/TroJanzHEX/Unlimited-Filter-Bot/fork">
-    <img src="https://img.shields.io/github/forks/TroJanzHEX/Unlimited-Filter-Bot?label=Fork&style=social">
+  <a href="https://github.com/konay1122/Unlimited-Filter-Bot/fork">
+    <img src="https://img.shields.io/github/forks/konay1122/Unlimited-Filter-Bot?label=Fork&style=social">
 
   </a>  
 </p>
 
-[![TroJanz](https://img.shields.io/badge/TroJanzHEX-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/TroJanzHEX)  
-ㅤㅤㅤㅤㅤㅤㅤ  
-[![TroJanz](https://img.shields.io/badge/TroJanzHEX-Support-red?style=flat&logo=telegram)](https://telegram.dog/TroJanzSupport)  [![TroJanz](https://img.shields.io/badge/TroJanzHEX-Website-red?style=flat&logo=CodersRank)](https://TroJanzHEX.me)  
-ㅤㅤㅤㅤㅤㅤㅤ  
-[![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/TroJanzHEX/Unlimited-Filter-Bot/blob/main/LICENSE)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/TroJanzHEX/Unlimited-Filter-Bot)
 
 
 ## An advanced Filter Bot with nearly unlimitted filters!
@@ -85,7 +80,7 @@ Thanks to [InfotelGroup](https://telegram.dog/InFoTel_Group) and [Erich Daniken]
 ## Installation
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TroJanzHEX/Unlimited-Filter-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/konay1122/Unlimited-Filter-Bot)
 
 ### Deploy in your vps
 ```sh
