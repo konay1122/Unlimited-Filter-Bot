@@ -124,19 +124,4 @@ python3 bot.py
 
 * DISCONNECT_COMMAND  -  default will be 'disconnect'
 
-EG;  
-![Vars Eg](https://telegra.ph/file/1f956f3491f2f20a9c1ec.jpg)
 
-## Credits
-
-<p align="left">
-  <a href="https://github.com/pyrogram/pyrogram">
-    <img alt="Pyrogram" src ="https://i.imgur.com/BOgY9ai.png" width="104.75" height="32"/>
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://docs.mongodb.com">
-    <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
-  </a>
-</p>
