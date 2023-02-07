@@ -4,11 +4,11 @@ import time
 class Config(object):
 
     # Get a bot token from botfather
-    TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "")
+    TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "1928717939:AAGkZhvcTuH-3yHF-MOQ4f6a1nP3pWsVH10")
 
 
     # Get from my.telegram.org (or @UseTGXBot)
-    API_ID = int(os.environ.get("API_ID", 12345))
+    API_ID = int(os.environ.get("API_ID", ""))
 
 
     # Get from my.telegram.org (or @UseTGXBot)
@@ -30,12 +30,7 @@ class Config(object):
     # To save user details (Usefull for getting userinfo and total user counts)
     # May reduce filter capacity :(
     # Give yes or no
-    SAVE_USER = os.environ.get("SAVE_USER", "no").lower()
-
-
-    # Go to https://dashboard.heroku.com/account, scroll down and press Reveal API
-    # To check dyno status
-    HEROKU_API_KEY = os.environ.get("HEROKU_API_KEY", "")
+    SAVE_USER = os.environ.get("SAVE_USER", "yes").lower()
 
 
     # OPTIONAL - To set alternate BOT COMMANDS
